@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Igor+%F0%9F%91%8B;ML+Engineer+%7C+Time+Series+Forecasting;Always+learning+something+new..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Igor+%F0%9F%91%8B;ML+Engineer+%7C+Time+Series+Forecasting" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,10 +19,9 @@
 ## 🧠 About Me
 
 - 🔭 Focused on **time series forecasting** and predictive modeling
-- 🤖 Working with **deep learning** approaches: Transformers, TCN, N-BEATS
-- 🌱 Currently exploring **LLMs** and their applications in structured data
+- 🤖 Working with **deep learning** approaches
+- 🌱 Currently exploring **LLMs** and their applications
 - 💡 Interested in the intersection of classical ML and modern neural approaches
-- 📫 Reach me at **iigor.bio@gmail.com**
 
 ---
 
